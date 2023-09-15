@@ -1,2 +1,2 @@
 http://backend.course#Volodya4711
-http://backend.course?name="ÐÐ¾Ð»Ð¾Ð´Ñ ÐÐ»ÑÑÑÑÐ°ÑÐ¾Ð²"&github_name="Volodya4711"&group="Ð¤ÐÐ-24"&subgroup="ÐÑÐ´Ð³ÑÑÐ¿Ð° 2"
+http://backend.course?name=%22%D0%92%D0%BE%D0%BB%D0%BE%D0%B4%D1%8F%20%D0%84%D0%BB%D1%96%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D0%B2%22&github_name=%22Volodya4711%22&group=%22%D0%A4%D0%95%D0%86-24%22&subgroup=%22%D0%9F%D1%96%D0%B4%D0%B3%D1%80%D1%83%D0%BF%D0%B0%202%22%0A
